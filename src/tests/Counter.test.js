@@ -2,7 +2,7 @@
 // import the Counter component here
 import { fireEvent, getByRole, render, screen } from '@testing-library/react';
 import Counter from "../components/Counter";
-
+//commenting just to make a change here
 beforeEach(() => {
   // Render the Counter component here
   render(<Counter/>);
